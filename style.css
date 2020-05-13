@@ -61,7 +61,7 @@ body {
 
 .header-email,
 .footer-email {
-  padding-left: 50px;
+  padding-left: 28px;
   background-image: url("img/icon-email.svg");
 }
 
@@ -74,7 +74,7 @@ body {
 
 .header-phone,
 .footer-phone {
-  padding-left: 100px;
+  padding-left: 21px;
   background-image: url("img/icon-phone.svg");
 }
 
